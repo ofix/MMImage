@@ -1,0 +1,7 @@
+﻿  button.cpp
+  MagickCore lib DLL import interface
+  MagickCore module DLL export interface
+  MagickCore lib DLL import interface
+  MagickCore module DLL export interface
+  Magick++ lib DLL import
+LINK : fatal error LNK1181: 无法打开输入文件“CORE_RL_magick_.lib”

@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "button", "button.vcxproj", "{24C39AAA-FC7A-4719-BDA5-BA9908E5950E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "demo", "demo.vcxproj", "{4949E6B6-C622-472C-857C-C2F88FE6F2B2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "detrans", "detrans.vcxproj", "{EC4763ED-E355-460E-8CA7-BD724755605F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "flip", "flip.vcxproj", "{C8815671-141E-4366-AA1B-26E6795F4B9C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gravity", "gravity.vcxproj", "{B1ACD129-15A2-4D8A-ABDE-2F19E19A8CB9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "piddle", "piddle.vcxproj", "{4CCDE08C-554C-4149-AF32-B23DD76AB1A3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shapes", "shapes.vcxproj", "{6F752E4D-CE1A-4D1C-8B3A-5CD64CBDB72F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zoom", "zoom.vcxproj", "{73B32295-E502-4C71-A4A5-993DDC23AAC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+		Template|x86 = Template|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24C39AAA-FC7A-4719-BDA5-BA9908E5950E}.Release|x86.ActiveCfg = Release|Win32
+		{24C39AAA-FC7A-4719-BDA5-BA9908E5950E}.Release|x86.Build.0 = Release|Win32
+		{24C39AAA-FC7A-4719-BDA5-BA9908E5950E}.Template|x86.ActiveCfg = Release|Win32
+		{24C39AAA-FC7A-4719-BDA5-BA9908E5950E}.Template|x86.Build.0 = Release|Win32
+		{4949E6B6-C622-472C-857C-C2F88FE6F2B2}.Release|x86.ActiveCfg = Release|Win32
+		{4949E6B6-C622-472C-857C-C2F88FE6F2B2}.Release|x86.Build.0 = Release|Win32
+		{4949E6B6-C622-472C-857C-C2F88FE6F2B2}.Template|x86.ActiveCfg = Template|Win32
+		{4949E6B6-C622-472C-857C-C2F88FE6F2B2}.Template|x86.Build.0 = Template|Win32
+		{EC4763ED-E355-460E-8CA7-BD724755605F}.Release|x86.ActiveCfg = Release|Win32
+		{EC4763ED-E355-460E-8CA7-BD724755605F}.Release|x86.Build.0 = Release|Win32
+		{EC4763ED-E355-460E-8CA7-BD724755605F}.Template|x86.ActiveCfg = Template|Win32
+		{EC4763ED-E355-460E-8CA7-BD724755605F}.Template|x86.Build.0 = Template|Win32
+		{C8815671-141E-4366-AA1B-26E6795F4B9C}.Release|x86.ActiveCfg = Release|Win32
+		{C8815671-141E-4366-AA1B-26E6795F4B9C}.Release|x86.Build.0 = Release|Win32
+		{C8815671-141E-4366-AA1B-26E6795F4B9C}.Template|x86.ActiveCfg = Template|Win32
+		{C8815671-141E-4366-AA1B-26E6795F4B9C}.Template|x86.Build.0 = Template|Win32
+		{B1ACD129-15A2-4D8A-ABDE-2F19E19A8CB9}.Release|x86.ActiveCfg = Release|Win32
+		{B1ACD129-15A2-4D8A-ABDE-2F19E19A8CB9}.Release|x86.Build.0 = Release|Win32
+		{B1ACD129-15A2-4D8A-ABDE-2F19E19A8CB9}.Template|x86.ActiveCfg = Template|Win32
+		{B1ACD129-15A2-4D8A-ABDE-2F19E19A8CB9}.Template|x86.Build.0 = Template|Win32
+		{4CCDE08C-554C-4149-AF32-B23DD76AB1A3}.Release|x86.ActiveCfg = Release|Win32
+		{4CCDE08C-554C-4149-AF32-B23DD76AB1A3}.Release|x86.Build.0 = Release|Win32
+		{4CCDE08C-554C-4149-AF32-B23DD76AB1A3}.Template|x86.ActiveCfg = Template|Win32
+		{4CCDE08C-554C-4149-AF32-B23DD76AB1A3}.Template|x86.Build.0 = Template|Win32
+		{6F752E4D-CE1A-4D1C-8B3A-5CD64CBDB72F}.Release|x86.ActiveCfg = Release|Win32
+		{6F752E4D-CE1A-4D1C-8B3A-5CD64CBDB72F}.Release|x86.Build.0 = Release|Win32
+		{6F752E4D-CE1A-4D1C-8B3A-5CD64CBDB72F}.Template|x86.ActiveCfg = Template|Win32
+		{6F752E4D-CE1A-4D1C-8B3A-5CD64CBDB72F}.Template|x86.Build.0 = Template|Win32
+		{73B32295-E502-4C71-A4A5-993DDC23AAC0}.Release|x86.ActiveCfg = Release|Win32
+		{73B32295-E502-4C71-A4A5-993DDC23AAC0}.Release|x86.Build.0 = Release|Win32
+		{73B32295-E502-4C71-A4A5-993DDC23AAC0}.Template|x86.ActiveCfg = Template|Win32
+		{73B32295-E502-4C71-A4A5-993DDC23AAC0}.Template|x86.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92FCCC0A-67D9-4606-94DE-3DB2821B54BC}
+	EndGlobalSection
+EndGlobal
